@@ -8,7 +8,7 @@ Nessa primeira atividade realizamos nossa apresentação pessoal utilizando recu
 [Apresentação Pessoal GPI.pdf](https://github.com/user-attachments/files/25589988/Apresentacao.Pessoal.GPI.pdf)
 <img width="1194" height="668" alt="image" src="https://github.com/user-attachments/assets/9ed16671-a184-423f-9e01-3e7371d7ad15" />
 
-## Projeto análise de dados receita
+## Primeiro backlog utilizando a metodologia "Scrum"
 
 Nessa atividade realizamos um contato direto com o cliente, afim de entender e atender suas necessidades. Posteriormente realizamos um brainstorm em equipe e nos separamos para executar a ideia do produto:
 
@@ -21,3 +21,17 @@ Nessa atividade realizamos a utilização de algumas ferramentas para extrair va
 
 [balancete_receita.xlsx](https://github.com/user-attachments/files/25808545/balancete_receita.xlsx) <br>
 <img width="575" height="438" alt="image" src="https://github.com/user-attachments/assets/d6b57ef2-f8b4-48e0-a479-51c159368d5a" />
+
+## Certificado 20h noções básicas para elaboração de atividades acadêmicas
+
+[Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_3998269(2).PDF](https://github.com/user-attachments/files/26662220/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_3998269.2.PDF)
+<img width="1200" height="821" alt="image" src="https://github.com/user-attachments/assets/0d13ab63-7425-4584-9776-455007084bb0" />
+
+## Matrículas Inep 2019-2023 
+
+Nessa atividade coletamos informações da base de dados disponibilizada pelo Governo, e montamos uma tabela utilizando CONTSES, realizado gráfico extra para melhor vizualizar as informações. 
+
+[matriculas_inep2019a2023 (1) (2).xlsx](https://github.com/user-attachments/files/26662269/matriculas_inep2019a2023.1.2.xlsx)
+<img width="1043" height="531" alt="image" src="https://github.com/user-attachments/assets/aa2ac10d-afa9-4ebf-88b2-6c5ef2adaff7" />
+
+

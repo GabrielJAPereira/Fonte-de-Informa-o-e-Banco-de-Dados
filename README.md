@@ -26,8 +26,8 @@ Nessa atividade realizamos a utilização de algumas ferramentas para extrair va
 
 Nessa atividade realizamos a utilização de algumas ferramentas para extrair valores do excel, como PROCV e CONT.SE:
 
-[balancete_receita.xlsx](https://github.com/user-attachments/files/25808545/balancete_receita.xlsx) <br>
-<img width="1084" height="514" alt="image" src="https://github.com/user-attachments/assets/ce232e0c-4a82-4eb9-b266-338b69338218" />
+[balancete_receita (1).xlsx](https://github.com/user-attachments/files/26662441/balancete_receita.1.xlsx)
+<img width="1165" height="583" alt="image" src="https://github.com/user-attachments/assets/96844070-eb8a-4c78-9565-1615e1fe2b87" />
 
 # Certificado 20h noções básicas para elaboração de atividades acadêmicas
 

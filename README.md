@@ -40,5 +40,6 @@ Nessa atividade coletamos informações da base de dados disponibilizada pelo Go
 
 [Incendios florestais em areas protegidas_boi_areas_protegidas_2019_MARCO.xlsx](https://github.com/user-attachments/files/26662346/Incendios.florestais.em.areas.protegidas_boi_areas_protegidas_2019_MARCO.xlsx)
 <img width="1625" height="692" alt="image" src="https://github.com/user-attachments/assets/61295763-6994-4ba4-9157-f2c681ee540e" />
-<img width="1362" height="471" alt="image" src="https://github.com/user-attachments/assets/69134d67-4318-41d2-9de8-048fee1f5f14" />
+<img width="1843" height="575" alt="image" src="https://github.com/user-attachments/assets/ecfb72d7-fe13-46a3-940a-5861ede7b4ad" />
+
 

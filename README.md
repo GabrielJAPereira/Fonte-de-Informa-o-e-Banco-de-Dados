@@ -34,4 +34,11 @@ Nessa atividade coletamos informações da base de dados disponibilizada pelo Go
 [matriculas_inep2019a2023 (1) (2).xlsx](https://github.com/user-attachments/files/26662269/matriculas_inep2019a2023.1.2.xlsx)
 <img width="1043" height="531" alt="image" src="https://github.com/user-attachments/assets/aa2ac10d-afa9-4ebf-88b2-6c5ef2adaff7" />
 
+## Incêndios Florestais no Estado de São Paulo
+
+Nessa atividade coletamos informações da base de dados disponibilizada pelo Governo, e montamos uma tabela utilizando CONTSES, CONT.SE e realizado gráfico extra para melhor vizualizar as informações. 
+
+[Incendios florestais em areas protegidas_boi_areas_protegidas_2019_MARCO.xlsx](https://github.com/user-attachments/files/26662346/Incendios.florestais.em.areas.protegidas_boi_areas_protegidas_2019_MARCO.xlsx)
+<img width="1625" height="692" alt="image" src="https://github.com/user-attachments/assets/61295763-6994-4ba4-9157-f2c681ee540e" />
+<img width="1362" height="471" alt="image" src="https://github.com/user-attachments/assets/69134d67-4318-41d2-9de8-048fee1f5f14" />
 

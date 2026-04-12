@@ -22,7 +22,14 @@ Nessa atividade realizamos a utilização de algumas ferramentas para extrair va
 [balancete_receita.xlsx](https://github.com/user-attachments/files/25808545/balancete_receita.xlsx) <br>
 <img width="575" height="438" alt="image" src="https://github.com/user-attachments/assets/d6b57ef2-f8b4-48e0-a479-51c159368d5a" />
 
-## Certificado 20h noções básicas para elaboração de atividades acadêmicas
+## Projeto análise de dados receita - aprimoramento de gráfico
+
+Nessa atividade realizamos a utilização de algumas ferramentas para extrair valores do excel, como PROCV e CONT.SE:
+
+[balancete_receita.xlsx](https://github.com/user-attachments/files/25808545/balancete_receita.xlsx) <br>
+<img width="1084" height="514" alt="image" src="https://github.com/user-attachments/assets/ce232e0c-4a82-4eb9-b266-338b69338218" />
+
+# Certificado 20h noções básicas para elaboração de atividades acadêmicas
 
 [Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_3998269(2).PDF](https://github.com/user-attachments/files/26662220/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_3998269.2.PDF)
 <img width="1200" height="821" alt="image" src="https://github.com/user-attachments/assets/0d13ab63-7425-4584-9776-455007084bb0" />

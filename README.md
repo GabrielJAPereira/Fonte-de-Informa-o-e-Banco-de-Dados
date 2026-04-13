@@ -29,6 +29,13 @@ Nessa atividade realizamos a utilização de algumas ferramentas para extrair va
 [balancete_receita (1).xlsx](https://github.com/user-attachments/files/26662441/balancete_receita.1.xlsx)
 <img width="1165" height="583" alt="image" src="https://github.com/user-attachments/assets/96844070-eb8a-4c78-9565-1615e1fe2b87" />
 
+## Utilização de gráficos dinâmicos. 
+
+Nessa atividade realizamos a extração de dados utilizando SOMA.SE e CONT.VALORES para filtrar os seguintes valores:
+
+[Gráfico dinâmico.xlsx](https://github.com/user-attachments/files/26663850/Grafico.dinamico.xlsx)
+<img width="1178" height="650" alt="image" src="https://github.com/user-attachments/assets/5840621b-66f9-458e-8fe7-78b15a08b78d" />
+
 # Certificado 20h noções básicas para elaboração de atividades acadêmicas
 
 [Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_3998269(2).PDF](https://github.com/user-attachments/files/26662220/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_3998269.2.PDF)

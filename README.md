@@ -56,4 +56,9 @@ Nessa atividade coletamos informações da base de dados disponibilizada pelo Go
 <img width="1625" height="692" alt="image" src="https://github.com/user-attachments/assets/61295763-6994-4ba4-9157-f2c681ee540e" />
 <img width="1843" height="575" alt="image" src="https://github.com/user-attachments/assets/ecfb72d7-fe13-46a3-940a-5861ede7b4ad" />
 
+## Certificado PowerBI 4h
 
+Curso noções básicas PowerBI. 
+
+[Certificate_764901_273_f5360.pdf](https://github.com/user-attachments/files/26845651/Certificate_764901_273_f5360.pdf)
+<img width="1119" height="789" alt="image" src="https://github.com/user-attachments/assets/8f3d63df-7b75-4dfb-a37b-29a37cc3d3b0" />

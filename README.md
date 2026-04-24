@@ -62,3 +62,10 @@ Curso noções básicas PowerBI.
 
 [Certificate_764901_273_f5360.pdf](https://github.com/user-attachments/files/26845651/Certificate_764901_273_f5360.pdf)
 <img width="1119" height="789" alt="image" src="https://github.com/user-attachments/assets/8f3d63df-7b75-4dfb-a37b-29a37cc3d3b0" />
+
+## Aula PowerBI, despesas SJC
+
+Aprendendo noções básicas PowerBI na prática. 
+
+
+<img width="1119" height="789" alt="image" src="https://github.com/user-attachments/assets/8f3d63df-7b75-4dfb-a37b-29a37cc3d3b0" />

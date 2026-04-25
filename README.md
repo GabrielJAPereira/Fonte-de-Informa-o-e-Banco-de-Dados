@@ -67,4 +67,5 @@ Curso noções básicas PowerBI.
 
 Aprendendo noções básicas PowerBI na prática. 
 
+<img width="1430" height="799" alt="image" src="https://github.com/user-attachments/assets/7c0922b1-6989-4990-9b41-5feaf05ba3af" />
 

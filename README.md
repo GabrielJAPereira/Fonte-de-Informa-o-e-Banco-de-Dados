@@ -69,3 +69,9 @@ Aprendendo noções básicas PowerBI na prática.
 
 <img width="1430" height="799" alt="image" src="https://github.com/user-attachments/assets/7c0922b1-6989-4990-9b41-5feaf05ba3af" />
 
+## Aula PowerBI, desenvolvimento Dash.
+
+Desenvolvimento de dashboard "Graus Acadêmicos Ensino Superior", com configuração de figuras para sexo masculino e feminino. 
+
+<img width="1426" height="799" alt="image" src="https://github.com/user-attachments/assets/9ff36f56-01ca-4588-9255-36f6ebddef0a" />
+
